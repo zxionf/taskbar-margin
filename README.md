@@ -27,8 +27,8 @@
 
 ## 恢复
 - 重启资源管理器
-- powershell
-    ```shell
+- 或者powershell
+    ```powershell
     .\tb.exe -r
     ```
 

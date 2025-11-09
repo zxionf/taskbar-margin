@@ -24,8 +24,8 @@ Type `shell:startup` in File Explorer to navigate to the startup folder, then pl
 
 ## Restore
 - Restart File Explorer
-- Use PowerShell:
-    ```shell
+- Or Use PowerShell:
+    ```powershell
     .\tb.exe -r
     ```
 
